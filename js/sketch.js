@@ -1,6 +1,6 @@
 // ジェスチャーの種類
 // 👍(Thumb_Up), 👎(Thumb_Down), ✌️(Victory), 
-// ☝️(Pointng_Up), ✊(Closed_Fist), 👋(Open_Palm), 
+// ☝️(Pointing_Up), ✊(Closed_Fist), 👋(Open_Palm), 
 // 🤟(ILoveYou)
 function getCode(left_gesture, right_gesture) {
   let code_array = {
